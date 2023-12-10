@@ -53,6 +53,8 @@
   <img height="150em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=umarasif737&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
   <img height="150em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umarasif737&layout=compact&theme=algolia"/> 
+   <img height="150em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=umarasif737&layout=compact&theme=algolia"/> 
+
 </a>
 </p>
 
